@@ -1,0 +1,32 @@
+_repo: Parish-Priests-and-Their-People-in-the-Middle-Ages-in-England_42180
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42180-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Cutts, Edward Lewes
+    alias: Cutts, E. L. (Edward Lewes)
+    birthdate: 1824
+    deathdate: 1901
+    gutenberg_agent_id: '41560'
+    url: http://www.gutenberg.org/2009/agents/41560
+description: ''
+gutenberg_issued: '2013-02-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42180'
+  lccn: '90953302'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Clergy -- England'
+- !lcsh 'England -- Church history -- 1066-1485'
+- !lcsh 'Church history -- Middle Ages, 600-1500'
+- !lcsh 'England -- Social life and customs -- 1066-1485'
+- !lcsh 'Catholic Church -- England -- Clergy'
+title: Parish Priests and Their People in the Middle Ages in England
+url: http://www.gutenberg.org/ebooks/42180
